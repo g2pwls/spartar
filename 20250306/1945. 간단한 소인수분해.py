@@ -1,6 +1,6 @@
 T = int(input())
 
-for tc in range(1, T+1):
+for tc in range(1, T + 1):
     N = int(input())
 
     # 샘플에 숫자들을 미리 넣어둔다
@@ -18,6 +18,7 @@ for tc in range(1, T+1):
             # N을 N 나누기 sample[j]의 몫으로 다시 저장
             N = N // sample[j]
 
+    # 각 숫자가 리스트에 몇 개씩 있는지 카운트
     a = answer.count(2)
     b = answer.count(3)
     c = answer.count(5)
