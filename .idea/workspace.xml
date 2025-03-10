@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="221a0ab0-2c97-49c8-be7e-4771c9f12b4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20250310/5789. 현주의 상자 바꾸기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20250310/4615. 재미있는 오셀로 게임.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Python.5789. 현주의 상자 바꾸기">
+  <component name="RunManager" selected="Python.4615. 재미있는 오셀로 게임">
     <configuration name="과목평가 2회차 문제1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="spartar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20397. 돌 뒤집기 게임 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4615. 재미있는 오셀로 게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="spartar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20250307" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20250310" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20250307/20397. 돌 뒤집기 게임 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20250310/4615. 재미있는 오셀로 게임.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4615. 재미있는 오셀로 게임" />
         <item itemvalue="Python.5789. 현주의 상자 바꾸기" />
         <item itemvalue="Python.12004. 구구단1" />
         <item itemvalue="Python.과목평가 2회차 문제1" />
         <item itemvalue="Python.1974. 스도쿠 검증" />
-        <item itemvalue="Python.20397. 돌 뒤집기 게임 2" />
       </list>
     </recent_temporary>
   </component>
@@ -203,31 +204,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/20250310/5789. 현주의 상자 바꾸기.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/20250310/5789. 현주의 상자 바꾸기.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/20250310/5789. 현주의 상자 바꾸기.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/20250310/5789. 현주의 상자 바꾸기.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
