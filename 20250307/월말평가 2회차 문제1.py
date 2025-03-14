@@ -7,7 +7,7 @@ for tc in range(1, T+1):
     for _ in range(M):
         a, b, c = map(int, input().split())
 
-        for i in range(c+1):
+        for i in range(1, c+1):
             if 0 <= (b - 1 - i) < N and 0 <= (b - 1 + i) < N:
                 if arr[b-1-i] == arr[b-1+i]:
                     arr[b-1-i] = 1 - arr[b-1-i]
