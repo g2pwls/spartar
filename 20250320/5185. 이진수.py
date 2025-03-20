@@ -21,6 +21,6 @@ for tc in range(1, T+1):
         # 리스트값의 2진수를 표에서 찾아서 빈리스트에 추가
         # 키를 넣으면 값을 반환
         binary_result.append(hex_to_bin[i])
-    
+
     # 공백없이 출력
     print(f"#{tc}", ''.join(binary_result))

@@ -11,7 +11,7 @@ def checkSudoku(M):
 
             # 이미 사용된 숫자라면, 0을 리턴
             if row_num[row] != 0: return 0
-            if col_num[row] != 0: return 0
+            if col_num[col] != 0: return 0
 
             # 아니라면, row_num과 col_num의 각 숫자 위치를 1로 변경
             row_num[row] = 1
