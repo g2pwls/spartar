@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4136250e-9ef2-4f53-9291-6027872683c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/20250320/과목평가 5회차 문제2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20250307/1974. 스도쿠 검증.py" beforeDir="false" afterPath="$PROJECT_DIR$/20250307/1974. 스도쿠 검증.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20250320/5185. 이진수.py" beforeDir="false" afterPath="$PROJECT_DIR$/20250320/5185. 이진수.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
